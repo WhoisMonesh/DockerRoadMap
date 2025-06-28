@@ -1,7 +1,5 @@
-# Docker Learning Roadmap (v1.5 January 2025)
+# Docker Learning Roadmap (v1.0 Feb 2025)
 
-[![Check Markdown links](https://github.com/Evalle/DCA/actions/workflows/action.yml/badge.svg)](https://github.com/Evalle/DCA/actions/workflows/action.yml)
-[![Sparkline](https://stars.medv.io/evalle/dca.svg)](https://stars.medv.io/evalle/dca)
 
 ## Table of Contents
 1. [Core Docker Concepts](#1-core-docker-concepts)
